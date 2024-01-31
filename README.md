@@ -1,4 +1,4 @@
-# NeuroVision - Brain Tumor Segmentation Project
+# NeuroVision - Brain Tumor Segmentation 
 
 ## Overview
 
